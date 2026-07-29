@@ -122,7 +122,6 @@ const developer = {
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
 
-<br><br>
 
 <img src="https://img.shields.io/badge/DaisyUI-5A0EF8?style=flat-square"/>
 <img src="https://img.shields.io/badge/Framer_Motion-black?style=flat-square&logo=framer"/>
@@ -131,26 +130,25 @@ const developer = {
 <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square"/>
 <img src="https://img.shields.io/badge/SweetAlert2-FF5A7A?style=flat-square"/>
 
-<br><br><br>
 
 ### ⚙️ Backend
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 
-<br><br>
 
 <img src="https://img.shields.io/badge/Better_Auth-18181B?style=flat-square"/>
 <img src="https://img.shields.io/badge/JWT-black?style=flat-square&logo=jsonwebtokens"/>
 <img src="https://img.shields.io/badge/ImageBB_API-FF6B6B?style=flat-square"/>
 <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white"/>
 
-<br><br><br>
 
 ### 🧰 Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,npm,vercel" />
 
 </div>
+
+---
 
 # 🚀 What I'm Currently Learning
 
