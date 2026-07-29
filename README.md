@@ -89,10 +89,13 @@ const developer = {
 
 ---
 
-# 🌐 Connect With Me
+<!-- ========================================= -->
+<!--           CONNECT WITH ME                 -->
+<!-- ========================================= -->
+
+## 🌐 Connect With Me
 
 <p align="center">
-
 <a href="mailto:mrinmoysana7@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
@@ -102,77 +105,53 @@ const developer = {
 </a>
 
 <a href="https://github.com/mrinmoysana7">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="#">
-<img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-7C3AED?style=for-the-badge"/>
 </a>
-
 </p>
 
-# 🛠 Tech Stack
+---
+
+# 🛠️ Tech Stack
 
 <div align="center">
 
-### 🎨 Front-end Development
+### 🎨 Frontend
 
-<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind"/>
+<br><br>
 
-</p>
+<img src="https://img.shields.io/badge/DaisyUI-5A0EF8?style=flat-square"/>
+<img src="https://img.shields.io/badge/Framer_Motion-black?style=flat-square&logo=framer"/>
+<img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white"/>
+<img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat-square"/>
+<img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square"/>
+<img src="https://img.shields.io/badge/SweetAlert2-FF5A7A?style=flat-square"/>
 
-<p>
+<br><br><br>
 
-<img src="https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white"/>
+### ⚙️ Backend
 
-<img src="https://img.shields.io/badge/Framer%20Motion-000000?style=for-the-badge&logo=framer&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 
-<img src="https://img.shields.io/badge/TanStack%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white"/>
+<br><br>
 
-<img src="https://img.shields.io/badge/React%20Hook%20Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white"/>
+<img src="https://img.shields.io/badge/Better_Auth-18181B?style=flat-square"/>
+<img src="https://img.shields.io/badge/JWT-black?style=flat-square&logo=jsonwebtokens"/>
+<img src="https://img.shields.io/badge/ImageBB_API-FF6B6B?style=flat-square"/>
+<img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge"/>
+<br><br><br>
 
-<img src="https://img.shields.io/badge/SweetAlert2-FF4B4B?style=for-the-badge"/>
+### 🧰 Tools
 
-</p>
-
----
-
-### ⚙️ Back-end Development
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb"/>
-
-</p>
-
-<p>
-
-<img src="https://img.shields.io/badge/Better%20Auth-111827?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens"/>
-
-<img src="https://img.shields.io/badge/ImageBB%20API-FF6B6B?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Stripe%20Checkout-635BFF?style=for-the-badge&logo=stripe&logoColor=white"/>
-
-</p>
-
----
-
-### 🧰 Tools & Platforms
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,npm,vercel"/>
-
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,npm,vercel" />
 
 </div>
-
 ---
 
 # 🚀 What I'm Currently Learning
