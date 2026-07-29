@@ -121,7 +121,7 @@ const developer = {
 ### 🎨 Frontend
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
-
+<br>
 
 <img src="https://img.shields.io/badge/DaisyUI-5A0EF8?style=flat-square"/>
 <img src="https://img.shields.io/badge/Framer_Motion-black?style=flat-square&logo=framer"/>
@@ -134,7 +134,7 @@ const developer = {
 ### ⚙️ Backend
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
-
+<br>
 
 <img src="https://img.shields.io/badge/Better_Auth-18181B?style=flat-square"/>
 <img src="https://img.shields.io/badge/JWT-black?style=flat-square&logo=jsonwebtokens"/>
