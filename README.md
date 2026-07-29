@@ -24,19 +24,6 @@ Building modern, responsive and user-focused web applications with clean UI, sca
 
 </p>
 
----
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=mrinmoysana7&label=Profile%20Views&color=7C3AED&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/followers/mrinmoysana7?style=for-the-badge&color=0EA5E9"/>
-
-<img src="https://img.shields.io/github/stars/mrinmoysana7?affiliations=OWNER&style=for-the-badge&color=F59E0B"/>
-
-<img src="https://img.shields.io/badge/Open%20To%20Work-YES-success?style=for-the-badge"/>
-
-</p>
 
 ---
 
@@ -87,7 +74,7 @@ const developer = {
 
 - 🚀 Building production-ready full-stack projects
 
-
+---
 <!-- ========================================= -->
 <!--           CONNECT WITH ME                 -->
 <!-- ========================================= -->
@@ -212,19 +199,30 @@ const developer = {
 
 ---
 
-# 📈 My Development Journey
+## 📈 My Development Journey
 
-```text
-2025  ████████░░░░░░░░░░░ Started Learning Web Development
+🔹 **2025**  
+Started my journey into Web Development and learned the fundamentals.
 
-2025  ██████████████░░░░░ Learned React & JavaScript
+<br>
 
-2026  █████████████████░ Built Production Projects
+🔹 **2025**  
+Built a strong foundation in **HTML, CSS, JavaScript, and React**.
 
-2026  ██████████████████ Learning Full Stack Development
+<br>
 
-2026  ██████████████████ Preparing for Front-end Developer Roles
-```
+🔹 **2026**  
+Developed multiple **production-ready full-stack projects** using Next.js, Node.js, Express.js, and MongoDB.
+
+<br>
+
+🔹 **2026**  
+Continuously improving my skills in authentication, REST APIs, performance optimization, and scalable application architecture.
+
+<br>
+
+🔹 **Current Goal** 🎯  
+Seeking opportunities as a **Front-end Developer** while expanding my expertise in **Full Stack Development**.
 
 ---
 
