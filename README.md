@@ -502,7 +502,7 @@ PromptVerse is a modern **AI Prompt Sharing Marketplace** where creators, develo
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/mrinmoysana7/mrinmoysana7/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+<img src="https://raw.githubusercontent.com/mrinmoysana7/mrinmoysana7/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
 
