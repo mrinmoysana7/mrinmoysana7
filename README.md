@@ -110,6 +110,178 @@ const developer = {
 
 </p>
 
+# 🛠 Tech Stack
+
+<div align="center">
+
+### 🎨 Front-end Development
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind"/>
+
+</p>
+
+<p>
+
+<img src="https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Framer%20Motion-000000?style=for-the-badge&logo=framer&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/TanStack%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/React%20Hook%20Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/SweetAlert2-FF4B4B?style=for-the-badge"/>
+
+</p>
+
+---
+
+### ⚙️ Back-end Development
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb"/>
+
+</p>
+
+<p>
+
+<img src="https://img.shields.io/badge/Better%20Auth-111827?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens"/>
+
+<img src="https://img.shields.io/badge/ImageBB%20API-FF6B6B?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Stripe%20Checkout-635BFF?style=for-the-badge&logo=stripe&logoColor=white"/>
+
+</p>
+
+---
+
+### 🧰 Tools & Platforms
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,npm,vercel"/>
+
+</p>
+
+</div>
+
+---
+
+# 🚀 What I'm Currently Learning
+
+- ⚛ Advanced React Patterns
+
+- 🚀 Next.js App Router Architecture
+
+- 🎨 UI/UX Design Principles
+
+- 🔐 Authentication & Authorization
+
+- ⚡ Performance Optimisation
+
+- 🌐 REST API Design
+
+- 📦 Scalable Project Structure
+
+- 🧹 Clean Code Practices
+
+---
+
+# 💼 What I Enjoy Building
+
+- 🚗 Car Rental Platforms
+
+- 🤖 AI Applications
+
+- 📊 Admin Dashboards
+
+- 💼 Business Management Systems
+
+- 🌍 SaaS Products
+
+- 🛒 E-Commerce Platforms
+
+- 🧾 HR & Recruitment Systems
+
+- 🎫 Event Management Systems
+
+- 📱 Fully Responsive Web Applications
+
+---
+
+# 🎯 2026 Goals
+
+- ✅ Get my first Front-end Developer role
+
+- 🚀 Build 10+ Production-ready Projects
+
+- 🌍 Contribute to Open Source
+
+- 📚 Master Next.js
+
+- ⚡ Learn System Design Fundamentals
+
+- 🐳 Learn Docker
+
+- ☁ Learn Cloud Deployment
+
+- 🧪 Explore Testing (Jest & Playwright)
+
+---
+
+# 📈 My Development Journey
+
+```text
+2025  ████████░░░░░░░░░░░ Started Learning Web Development
+
+2025  ██████████████░░░░░ Learned React & JavaScript
+
+2026  █████████████████░ Built Production Projects
+
+2026  ██████████████████ Learning Full Stack Development
+
+2026  ██████████████████ Preparing for Front-end Developer Roles
+```
+
+---
+
+# ⚡ Fun Facts
+
+- 💡 I learn by building real-world projects.
+
+- 🚀 Every project teaches me something new.
+
+- ☕ Coffee + Coding = Productivity.
+
+- 🎯 Consistency beats motivation.
+
+- 🧩 I enjoy solving UI challenges.
+
+- 🌙 I love late-night coding sessions.
+
+---
+
+# 🏆 Achievements
+
+🏅 Built multiple full-stack applications
+
+🏅 Strong foundation in React ecosystem
+
+🏅 Passionate about clean UI development
+
+🏅 Continuously improving through real-world projects
+
+🏅 Always learning modern technologies
+
+---
+
 ---
 
 # 💡 Developer Philosophy
@@ -117,3 +289,165 @@ const developer = {
 > "Code is not just what I write — it's how I solve problems, create meaningful user experiences and continuously improve as a developer."
 
 ---
+
+# 🌟 Featured Projects
+
+---
+
+# 🚗 DriveFleet — Premium Car Rental Platform
+
+<p align="center">
+
+<img src="./assets/drivefleet-banner.png" width="100%" alt="DriveFleet"/>
+
+</p>
+
+### 📖 Overview
+
+DriveFleet is a modern **full-stack car rental platform** built to provide a seamless vehicle rental experience. Users can browse available cars, view detailed information, securely book vehicles, manage bookings, and maintain their own car listings through an intuitive and responsive interface.
+
+---
+
+### ✨ Key Features
+
+- 🔐 Secure Authentication
+- 🚗 Browse Available Cars
+- 📅 Online Car Booking
+- 📝 Booking Management
+- 🚘 Add / Update / Delete Cars
+- 👤 User Dashboard
+- 📱 Fully Responsive Design
+- ⚡ Fast Performance
+- 🌐 REST API Integration
+
+---
+
+### 🛠 Tech Stack
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,mongodb"/>
+
+<img src="https://img.shields.io/badge/JWT-black?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss"/>
+
+</p>
+
+---
+
+### 🔗 Project Links
+
+<p>
+
+<a href="https://ph-assignment-9-ten.vercel.app">
+<img src="https://img.shields.io/badge/🌍 Live Demo-success?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/mrinmoysana7/PH-Assignment-9">
+<img src="https://img.shields.io/badge/💻 Client Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://github.com/mrinmoysana7/DriveFleet-Server">
+<img src="https://img.shields.io/badge/⚙ Server Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+
+<br>
+
+# 🤖 PromptVerse — AI Prompt Sharing Marketplace
+
+<p align="center">
+
+<img src="./assets/promptverse-banner.png" width="100%" alt="PromptVerse"/>
+
+</p>
+
+### 📖 Overview
+
+PromptVerse is a modern **AI Prompt Sharing Marketplace** where creators, developers and AI enthusiasts can discover, organise and share high-quality AI prompts. It offers role-based authentication, premium prompt publishing, collections and a beautiful modern user experience.
+
+---
+
+### ✨ Key Features
+
+- 🤖 AI Prompt Marketplace
+
+- 👥 Community Driven Platform
+
+- 🔐 Role-Based Authentication
+
+- 💎 Premium & Free Prompts
+
+- ❤️ Save Favourite Prompts
+
+- 🔍 Smart Search & Filters
+
+- 📂 Prompt Collections
+
+- 👤 User Dashboard
+
+- 📱 Responsive UI
+
+---
+
+### 🛠 Tech Stack
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,mongodb"/>
+
+<img src="https://img.shields.io/badge/Better%20Auth-black?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss"/>
+
+</p>
+
+---
+
+### 🔗 Project Links
+
+<p>
+
+<a href="https://your-live-site.vercel.app">
+
+<img src="https://img.shields.io/badge/🌍 Live Demo-success?style=for-the-badge"/>
+
+</a>
+
+<a href="https://github.com/your-username/promptverse-client">
+
+<img src="https://img.shields.io/badge/💻 Client Repository-181717?style=for-the-badge&logo=github"/>
+
+</a>
+
+<a href="https://github.com/your-username/promptverse-server">
+
+<img src="https://img.shields.io/badge/⚙ Server Repository-181717?style=for-the-badge&logo=github"/>
+
+</a>
+
+</p>
+
+> ⚠️ **Update Required:** Replace the PromptVerse repository and live links above with your actual GitHub repositories and deployment URL before publishing your profile.
+
+---
+
+# 💼 More Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| 🚗 DriveFleet | Full-stack car rental platform with authentication, bookings and dashboard. | Next.js • React • Node.js • MongoDB |
+| 🤖 PromptVerse | AI Prompt Sharing Marketplace with role-based authentication. | Next.js • Better Auth • MongoDB |
+| 🚀 Upcoming Projects | More production-ready applications are currently in development. | JavaScript Ecosystem |
+
+---
+
+# 📌 Project Philosophy
+
+> I believe the best way to learn software development is by building real-world products. Every project I create focuses on solving practical problems, writing clean code, delivering responsive user experiences, and continuously improving my engineering skills.
