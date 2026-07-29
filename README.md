@@ -87,7 +87,6 @@ const developer = {
 
 - 🚀 Building production-ready full-stack projects
 
----
 
 <!-- ========================================= -->
 <!--           CONNECT WITH ME                 -->
@@ -117,7 +116,7 @@ const developer = {
 
 # 🛠️ Tech Stack
 
-<div align="center">
+<div align="start">
 
 ### 🎨 Frontend
 
@@ -152,7 +151,6 @@ const developer = {
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,npm,vercel" />
 
 </div>
----
 
 # 🚀 What I'm Currently Learning
 
