@@ -40,6 +40,165 @@ Building modern, responsive and user-focused web applications with clean UI, sca
 
 ---
 
+<!-- ===================================================== -->
+<!--                GITHUB ANALYTICS                       -->
+<!-- ===================================================== -->
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mrinmoysana7&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&rank_icon=github"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrinmoysana7&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=mrinmoysana7&theme=tokyonight&hide_border=true&border_radius=15"/>
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mrinmoysana7&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=mrinmoysana7&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/mrinmoysana7/mrinmoysana7/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+
+</p>
+
+> **Note:** Enable the GitHub Action later to generate the snake animation automatically.
+
+---
+
+# 💬 Developer Quote
+
+<p align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🚀 Beyond Coding
+
+### 🌱 Currently Exploring
+
+- ⚛️ Advanced React Patterns
+- 🚀 Next.js Performance Optimisation
+- 🏗️ Scalable Front-end Architecture
+- 🔐 Secure Authentication Systems
+- 🤖 AI-powered Web Applications
+
+---
+
+### 💡 My Core Values
+
+- ✅ Clean & Maintainable Code
+- 🚀 Performance First
+- 🎨 User-Centric UI/UX
+- 📚 Continuous Learning
+- 🤝 Collaboration & Teamwork
+- 💬 Clear Communication
+
+---
+
+### 📌 What You Can Expect From Me
+
+✔ Responsive Web Applications
+
+✔ Pixel-Perfect UI
+
+✔ REST API Integration
+
+✔ Modern React Ecosystem
+
+✔ Scalable Project Structure
+
+✔ Clean Code Principles
+
+✔ Performance Optimisation
+
+✔ Production-ready Applications
+
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+
+<a href="mailto:mrinmoysana7@gmail.com">
+
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+
+</a>
+
+<a href="https://linkedin.com/in/mrinmoy-sana">
+
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+</a>
+
+<a href="https://github.com/mrinmoysana7">
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+
+</a>
+
+<a href="#">
+
+<img src="https://img.shields.io/badge/Portfolio-Coming_Soon-7C3AED?style=for-the-badge"/>
+
+</a>
+
+</p>
+
+---
+
+# ⭐ Support My Work
+
+If you like my work and projects, consider giving them a ⭐ on GitHub.
+
+It motivates me to keep learning, building and contributing to the developer community.
+
+---
+
+<div align="center">
+
+## 💙 Thanks for Visiting My Profile!
+
+### ⭐ Don't forget to follow me if you enjoy my work.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=6C63FF&section=footer"/>
+
+</div>
+
 # 👨🏻‍💻 About Me
 
 ```javascript
