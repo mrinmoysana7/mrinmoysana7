@@ -299,7 +299,7 @@ const developer = {
 
 <p align="center">
 
-<img src="./assets/drivefleet-banner.png" width="100%" alt="DriveFleet"/>
+<img src="./drivefleet-banner.png" width="100%" alt="DriveFleet"/>
 
 </p>
 
@@ -363,7 +363,7 @@ DriveFleet is a modern **full-stack car rental platform** built to provide a sea
 
 <p align="center">
 
-<img src="./assets/promptverse-banner.png" width="100%" alt="PromptVerse"/>
+<img src="./promptverse-banner.png" width="100%" alt="PromptVerse"/>
 
 </p>
 
